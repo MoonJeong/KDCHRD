@@ -36,6 +36,7 @@ _튀김_	&#128518; 	&#128518; 	&#128518;
 
 ___순대___ &#128537; &#128537; &#128537;
 
+<span style="color:red">Red Text</span>
 
 
-
+<span style="color:red">내용</span>
