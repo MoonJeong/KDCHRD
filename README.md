@@ -27,6 +27,7 @@ System.out.println("Hello world");
 # __먹고싶은거!__
 <pre>
 __떡볶이__
+&#128525;
 
 
 _튀김_
