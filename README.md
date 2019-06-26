@@ -4,7 +4,7 @@
 # &#127773; __Hello world!__
 ~~~
 System.out.println("Hello world");
- <!-- 으아ㅏ앙아ㅏ아ㅏ아ㅏ -->
+
 ~~~
 
 # &#127772; __먹은거!__
