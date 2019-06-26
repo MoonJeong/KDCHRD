@@ -28,10 +28,10 @@ System.out.println("Hello world");
 <pre>
 __떡볶이__
 
-#
+
 _튀김_
 
-
+<code>
 ___순대___
 
 
