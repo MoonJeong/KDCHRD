@@ -39,4 +39,5 @@ ___순대___ &#128537; &#128537; &#128537;
 ~~~~ 
 
 
+마크다운(Markdown)은 일반 텍스트를 HTML로 변환한다. *[HTML]: HyperText Markup Language
 
