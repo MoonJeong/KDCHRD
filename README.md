@@ -1,7 +1,7 @@
 # 강문정 <pre>배고프다
 ### 6월26일
 
-# __Hello world!__
+# &#127773; __Hello world!__
 System.out.println("Hello world");
  <!-- 으아ㅏ앙아ㅏ아ㅏ아ㅏ -->
 
