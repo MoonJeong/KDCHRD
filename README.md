@@ -1,9 +1,12 @@
 #include <wiringPi.h>
+
 #include <lcd.h>
+
 
             //LCD pin 1 > GND
             //LCD pin 2 > VCC 3.3v
             //LCD pin 3 > GND   
+            
 #define rs 29    //LCD pin 4 >   Bcm. 21, wPi. 29, Physical. 40
             //LCD pin 5 >   GND
 #define en 28    //LCD pin 6 >   BCM. 20, wPi. 28, Physical. 38
